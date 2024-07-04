@@ -1,0 +1,49 @@
+.primary-font{
+  font-family: "Margarine", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.primary-btn{
+ 
+  background-color: #8596F3;
+  border-radius:100px;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  color: white;
+  margin: 8px;
+}
+
+.primary-btn:hover{
+  background-color: #3044b3;
+  border: 0px solid black;
+  
+  
+}
+
+.primary-btn1{
+
+  border-radius:100px;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  color: white;
+  margin: 8px;
+
+}
+.footer-icon{
+  padding: 5vh;
+display: flex;
+text-align: center;
+justify-content: center;
+gap: 30px;
+}
+.primary-btn1:hover{
+  
+color: black;
+  
+
+  
+  
+}
