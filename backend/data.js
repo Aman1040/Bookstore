@@ -105,10 +105,10 @@ app.use(express.json());
 
 mongoose.connect(
   "mongodb+srv://amansiriah07:BX5uqcmTuYgYvNwJ@cluster0.hbmunq8.mongodb.net/bookshell?retryWrites=true&w=majority&appName=Cluster0",
-  {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  }
+  // {
+  //   useNewUrlParser: true,
+  //   useUnifiedTopology: true,
+  // }
 );
 // mongoose.connect(
 //   "mongodb+srv://amansiriah07:BX5uqcmTuYgYvNwJ@cluster0.hbmunq8.mongodb.net/books?retryWrites=true&w=majority",
